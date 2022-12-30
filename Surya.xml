@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="AntiWeebPenguin/android_device_xiaomi_surya" path="device/xiaomi/surya" remote="github" revision="13.0" />
+  <project name="LineageOS/android_hardware_xiaomi" path="hardware/xiaomi" remote="github" revision="lineage-20" />
+  <project name="crdroidandroid/android_kernel_xiaomi_surya" path="kernel/xiaomi/surya" remote="github" revision="13.0" />
+  <project name="crdroidandroid/android_vendor_xiaomi_surya" path="vendor/xiaomi/surya" remote="github" revision="13.0" />
+</manifest>
